@@ -120,10 +120,9 @@ Each demographic category (combination of parental status, gender, and age range
 | 7 | 6 times a week | 15 | Never do |
 | 8 | 7 times a week | | |
 
-## References
-This dataset is collected from Kajibuntan.
+## Citation
+If you use this dataset, please cite:
 
 ```
-Igarashi, A. and Yokoyama, T. (2023). Kajibuntan: A house chore division app. In Proceedings of the 37th AAAI Conference on Artificial Intelligence, pages 16449–16451.
+Ryota Maruo, Tomohiko Yokoyama, Ayumi Igarashi, and Koh Takeuchi. (2026). Mechanism-Informed Learning for Fair Division. In Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).
 ```
-
